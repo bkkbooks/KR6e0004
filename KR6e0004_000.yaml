@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0004/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經探玄記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T35/T35n1733.xml
+    old_id: T35n1733
+hash: sha256:1e5764fc63002998e3cff83e203ae1df6ac984c2ee8119a0f53ddb6c1c0b6d03
